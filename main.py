@@ -1,3 +1,5 @@
-name = input("Enter Your Name")
+name = input("Enter Your Name: ")
+age= input("Enter Your age: ")
 print("hello",name)
 print("Welcome to python and GitHub")
+print("Your age is:", age)
